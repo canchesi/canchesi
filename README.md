@@ -10,18 +10,20 @@ Nothing special about me.
 
 - 📫 How to reach me: claudio.anchesi@outlook.it;
 
-``` rust
-pub fn is_linux_free(your_time: TimeDedicated) -> bool {
-    let mut _answer = false;
-    if your_time::value() == 0 {
-        _answer = true;
-    }
-    _answer
-}
-// Nice quote, let's sudo rm -rf /
-```
-
+<table>
+<tr>
+<td>
+<h3>Stats</h3>
+</td>
+<td>
 <h3>What I (think I) know:</h3>
+</td>
+</tr>
+<tr>
+<td>
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=claudioanchesi&show_icons=true&theme=radical" />
+</td>
+<td>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -72,3 +74,6 @@ pub fn is_linux_free(your_time: TimeDedicated) -> bool {
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
+    </td>
+</tr>
+</table>
