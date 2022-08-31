@@ -8,7 +8,7 @@ Nothing special about me.
 
 - 🌱 I’m currently trying to learn **Rust**;
 
-- 📫 How to reach me: claudio.anchesi@outlook.it;
+- 📫 How to reach me: canchesi@duck.com;
 
 <table>
 <tr>
