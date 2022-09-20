@@ -21,7 +21,7 @@ Nothing special about me.
 </tr>
 <tr>
 <td>
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=claudioanchesi&show_icons=true&theme=radical" />
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=canchesi&show_icons=true&theme=radical" />
 </td>
 <td>
 <p>
