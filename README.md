@@ -6,7 +6,7 @@ Nothing special about me.
 
 - 🔭 I’m currently working on **myself**;
 
-- 🌱 I’m currently trying to learn **Rust**;
+- 🌱 I’m currently trying to learn **Go**;
 
 - 📫 How to reach me: canchesi@duck.com;
 
